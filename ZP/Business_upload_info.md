@@ -1,6 +1,6 @@
 # What documents should you upload to get verified?
 
-## 🛒 Grocery stores/ Supermarkets/ Hypermarkets / Kirana Stores 
+## 🌽 Grocery stores/ Supermarkets/ Hypermarkets / Kirana Stores 
 You'd have to submit a valid copy of the following documents (**required**)
 
 
