@@ -1,6 +1,6 @@
 # What documents should you upload to get verified?
 
-## Grocery stores/ Supermarkets/ Hypermarkets / Kirana Stores 
+## 🛒 Grocery stores/ Supermarkets/ Hypermarkets / Kirana Stores 
 You'd have to submit a valid copy of the following documents (**required**)
 
 
@@ -20,7 +20,7 @@ You'd have to submit a valid copy of the following documents (**required**)
 
 #
 
-## Restaurants / Cool Bars / Hotels  
+## 🍕 Restaurants / Cool Bars / Hotels  
 You'd have to submit a valid copy of the following documents (**required**)
 
 
@@ -36,7 +36,7 @@ You'd have to submit a valid copy of the following documents (**required**)
 
 #
 
-## Pharmacies / Medical Shops / HealthCare Products Supplier or Distributor 
+## 💊 Pharmacies / Medical Shops / HealthCare Products Supplier or Distributor 
 You'd have to submit a valid copy of the following documents (**required**)
 
 
@@ -52,7 +52,7 @@ You'd have to submit a valid copy of the following documents (**required**)
 
 #
 
-## Individuals / Self-employed Businesses
+## 🙋‍♂️ Individuals / Self-employed Businesses
 You'd have to submit a valid copy of the following documents (**required**)
 
 
